@@ -1,0 +1,74 @@
+Prefix	Family name	Given name	Gender	Password	Managing Organization	Role	Email	NPI	hsdp_user	logical_id
+Ms	Dirr	Bonnie			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	BONNIE_DIRR@DFCI.HARVARD.EDU	1861681199	TRUE	
+Ms	Joyce	Amy			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Amy_Joyce@dfci.harvard.edu	1801976121	TRUE	
+Ms	Power	Elyssa			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	EPOWER@PARTNERS.ORG	1326594623	TRUE	
+Ms	Severns	Patricia			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Patricia_Severns@dfci.harvard.edu	1487837811	TRUE	
+Ms	Stewart	Lisa			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	LSTEWART3@PARTNERS.ORG		TRUE	
+Ms	Dubeau	Toni			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Toni_Dubeau@dfci.harvard.edu	1235506163	TRUE	
+Ms	Klehm	Margaret			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Margaret_Klehm@DFCI.HARVARD.EDU	1437360278	TRUE	
+Ms	Engel	Lauren			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Lauren_Engel@DFCI.HARVARD.EDU	1891248498	TRUE	
+Ms	Salabao	Cristina			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Cristina_Salabao@DFCI.HARVARD.EDU	1104346808	TRUE	
+Ms	Ostman	Lauren			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Lauren_Ostman1@dfci.harvard.edu	1346883428	TRUE	
+Ms	Agius	Christine			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	CAGIUS@LROC.HARVARD.EDU	1932114790	TRUE	
+Mrs	Czapla	Lauren			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	LaurenE_Czapla@DFCI.HARVARD.EDU	1972746345	TRUE	
+Ms	Donnelly	Olivia			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	ODONNELLY@PARTNERS.ORG	1578843561	TRUE	
+Ms	Hershey	Allie			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Allie_Hershey@DFCI.HARVARD.EDU	1386990588	TRUE	
+Ms	Hill	Brittany			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Brittany.Hill@DFCI.HARVARD.EDU	1922660133	TRUE	
+Ms	Landry	Jean			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	JLANDRY@PARTNERS.ORG	1114024932	TRUE	
+Ms	McKenna	Jennifer			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Jennifer_McKenna@DFCI.HARVARD.EDU	1700810041	TRUE	
+Ms	O'Reilly	Elizabeth			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Elizabeth_O'Reilly@dfci.harvard.edu		TRUE	
+Dr.	Ritzer	Jolivette			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Jolivette_Ritzer@DFCI.HARVARD.EDU	1043640196	TRUE	
+Ms	Salehi	Elahe			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Elahe_Salehi@DFCI.HARVARD.EDU		TRUE	
+Mrs.	Shaw	Lindsay			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	LHJOHNSON@PARTNERS.ORG	1851570352	TRUE	
+Mrs.	Tamargo	Ryan Sullivan			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Ryan_Tamargo@dfci.harvard.edu	1619425055	TRUE	
+Mrs.	Turgeon	Margaret			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Margaret_Turgeon@DFCI.HARVARD.EDU	1598148694	TRUE	
+Ms	Arvine	Lisa			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Lisa_Arvine@dfci.harvard.edu	1174789077	TRUE	
+Mrs.	Cummings	Kelly			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	KACUMMINGS@PARTNERS.ORG	1861417685	TRUE	
+Ms	Hamel	Alison			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Alison_hamel@dfci.harvard.edu	1538602628	TRUE	
+Ms	Earley	Catherine			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Catherine_Earley@dfci.harvard.edu	1548239890	TRUE	
+Mrs.	Menon	Susanne			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Susanne_Menon@DFCI.HARVARD.EDU	1225211758	TRUE	
+Ms	Stewart	Ann			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	AnnM_Stewart@DFCI.HARVARD.EDU	1811959174	TRUE	
+Ms	Yager	Naomi			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	NaomiI_Yager@DFCI.HARVARD.EDU	1699172437	TRUE	
+Ms	Tawa	Marianne			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Marianne_Tawa@dfci.harvard.edu	1235177817	TRUE	
+Ms	McVay	Kerry			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Kerry_McVay@dfci.harvard.edu; 	1326681883	TRUE	
+Ms	Castronovo	Elizabeth			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Elizabeth_Castronovo@DFCI.HARVARD.EDU	1376778977	TRUE	
+Ms	King	Rhondine			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	RhondineN_King@DFCI.HARVARD.EDU	1891264263	TRUE	
+Mr	Glass	Jason			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	JGLASS@PARTNERS.ORG	1891945051	TRUE	
+Ms	Peterson	Megan			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	MeganA_Peterson@DFCI.HARVARD.EDU	1649679523	TRUE	
+Ms	Cochran	Melissa			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Melissa_Cochran@DFCI.HARVARD.EDU	1578518858	TRUE	
+Ms	Edmonds	Katherine			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Katherine_Edmonds@DFCI.HARVARD.EDU	1972888667	TRUE	
+Ms	Guglia	Jennifer			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Jennifer_Guglia@dfci.harvard.edu	1396133435	TRUE	
+Mrs.	Wilson	Ann Marie			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	AnnMarie_Wilson@DFCI.HARVARD.EDU	1578893384	TRUE	
+Mr	Wolanski	Andrew			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	AWOLANSKI@PARTNERS.ORG	1790724912	TRUE	
+Mr	Casey	Michael			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Michael_Casey@DFCI.HARVARD.EDU	1841372364	TRUE	
+Ms	Goddard	Beth			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	BethE_Goddard@DFCI.HARVARD.EDU	1033287834	TRUE	
+Ms	Grenon	Nina			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Nina_Grenon@dfci.harvard.edu	1447357751	TRUE	
+Ms	Nestor	Molly			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Molly_Nestor@DFCI.HARVARD.EDU	1427404862	TRUE	
+Ms	Sommers	Robin			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Robin_Sommers@dfci.harvard.edu	1679529358	TRUE	
+Ms	Sommer	Karen			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Karen_Sommer@dfci.harvard.edu	1932143591	TRUE	
+Ms	Terra	Adrienne			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Adrienne_Terra@DFCI.HARVARD.EDU	1891170783	TRUE	
+Ms	Creedon	Siobhan			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	SCREEDON@PARTNERS.ORG	1467853143	TRUE	
+Ms	Galinsky	Ilene			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Ilene_Galinsky@dfci.harvard.edu	1518992643	TRUE	
+Ms	Nguyen	Theresa			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Theresa_Nguyen@DFCI.HARVARD.EDU	1356994347	TRUE	
+Dr.	Freeman	Amanda			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Amanda_Freeman@DFCI.HARVARD.EDU	1033296249	TRUE	
+Ms	Kavanaugh	Hannah			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Hannah_Kavanaugh@DFCI.HARVARD.EDU	1720545056	TRUE	
+Ms	Gillian	Serino			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Gillian_Serino@DFCI.HARVARD.EDU	1689643108	TRUE	
+Ms	Wisdom	Dorothy			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	DorothyA_Wisdom@DFCI.HARVARD.EDU	1285890392	TRUE	
+Ms	Carr-Reynolds	Mary			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	MCARRREYNOLDS@BWH.HARVARD.EDU	1366499360	TRUE	
+Ms	Fugazzotto	Jo Ann			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Joann_Fugazzotto@DFCI.HARVARD.EDU	1063452746	TRUE	
+Ms	Nutting	Patricia			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Patricia_Nutting@DFCI.HARVARD.EDU	1366631897	TRUE	
+Ms	Polson	Kathleen			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Kathleen_Polson@dfci.harvard.edu	1710966924	TRUE	
+Ms	Trafton	Sarah			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Sarah_Trafton@DFCI.HARVARD.EDU		TRUE	
+Ms	Calarese	Pamela			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Pamela_Calarese@dfci.harvard.edu	1558418855	TRUE	
+Ms	Kelley	Kristina			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	KristinaM_Kelley@DFCI.HARVARD.EDU	1902447501	TRUE	
+Ms	McMullin	Margaret			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Margaret_McMullin@dfci.harvard.edu	1083711899	TRUE	
+Ms	Matthews	Sarah			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Sarah_Matthews@DFCI.HARVARD.EDU	1447807078	TRUE	
+Ms	Power	Kathleen			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	kpowers@bwh.harvard.edu	1710355441	TRUE	
+Ms	Ciampa	Abigail			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Abigail_Ciampa@dfci.harvard.edu	1649376567	TRUE	
+Ms	Hanley	Therese			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Therese_Hanley@DFCI.HARVARD.EDU	1568494607	TRUE	
+Ms	Lau	Kayao			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Kayao_Lau@DFCI.HARVARD.EDU	1720263734	TRUE	
+Ms	Dipalma	Suzanne			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Suzanne_Dipalma@DFCI.HARVARD.EDU	1669692455	TRUE	
+Ms	Huberty	Susanne			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Susanne_Huberty@DFCI.HARVARD.EDU		TRUE	
+Ms	Mithcell	Kathleen			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Kathleen_Mitchell@DFCI.HARVARD.EDU	1164402269	TRUE	
+Ms.	Kelly	Anne			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Anne_Kelly@dfci.harvard.edu	1558303412	TRUE	
+Ms	O'Kane	Holly			813b5cda-93cf-11e8-9db7-0ed072f5288c	Provider	Holly_Okane@dfci.harvard.edu		TRUE	
